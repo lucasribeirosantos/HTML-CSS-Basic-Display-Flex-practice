@@ -41,5 +41,13 @@ main {
 }
 
 .attribution {
-    margin-top: 25px;
+    margin-top: 15px;
+    color: hsl(218, 44%, 22%);
+    font-size: 13px;
+    font-weight: 700;
+}
+
+.attribution a {
+    text-decoration: underline;
+    color: hsl(218, 44%, 22%);
 }
